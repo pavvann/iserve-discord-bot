@@ -1,0 +1,14 @@
+{
+  "name": "discord_bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "author": "pawan",
+  "dependencies": {
+    "discord.js": "^14.11.0"
+  },
+  "devDependencies": {
+    "dotenv": "^16.3.1",
+    "eslint": "^8.45.0"
+  }
+}
